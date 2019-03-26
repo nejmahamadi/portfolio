@@ -135,7 +135,7 @@
         z-index: -1;
     }
 
-    .backend-desc.desc-active::after {
+    /*.backend-desc.desc-active::after {
         background: url(https://i.imgur.com/Dc8HgeM.png);
         background-repeat: no-repeat;
         background-size: contain;
@@ -182,7 +182,7 @@
         background-repeat: no-repeat;
         background-size: contain;
         background-position: right center;
-    }
+    }*/
     .hex-master-wrap {
         position: relative;
         /* width: 50%; */
