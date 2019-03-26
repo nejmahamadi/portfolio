@@ -1167,7 +1167,7 @@ article.skills div:nth-child(8) span:nth-child(2) {
     }
 
     #descriptionProjet {
-        color: aliceblue;
+        color: white;
         line-height: 1.4;
         padding: 35px 1em;
         /* margin: 270px; */
@@ -1209,8 +1209,16 @@ article.skills div:nth-child(8) span:nth-child(2) {
 
 }
 
+@media (min-width: 800px) {
+    
+    #descriptionProjet {
+        color: white;
+        line-height: 1.4;
+        
+    }
+    
 
-
+}
 
 
 /*************************************/
@@ -1733,7 +1741,7 @@ img.mfp-img {
     }
 
     #descriptionProjet {
-        color: skyblue;
+        color: white;
         line-height: 1.4;
         padding: 22px 1em;
         display: block;
